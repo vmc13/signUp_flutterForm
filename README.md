@@ -1,6 +1,6 @@
 # login_page_app
 
-A new Flutter project.
+Sign In form with flutter
 
 ## Getting Started
 
