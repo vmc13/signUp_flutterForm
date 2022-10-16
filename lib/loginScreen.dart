@@ -120,7 +120,7 @@ Widget buildForgotPassBtn() {
     child: TextButton(
       onPressed: () => print('Forgot Password pressed'),
       child: Text(
-        'Forgot Password?',
+        'Forgot password?',
         style:  
         TextStyle(
           color: Colors.white,
